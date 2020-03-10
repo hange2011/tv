@@ -129,6 +129,7 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 
 台湾1,#genre#
 寰宇新闻台,P2p://sdgdklwos.finetv.tv:9906/59fd2b5e0006d13802bde4340bc41e87
+寰宇新闻2台,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
 寰宇财经台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
 寰宇综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
 东森新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1
@@ -152,7 +153,6 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 八大综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
 八大戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
 八大娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
-纬来日本HD,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
 纬来体育HD,P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808
 纬来育乐HD,P2p://sdgdklwos.finetv.tv:9906/59fd26ad000978f002ab917848d22993
 纬来综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd206e00099d6f02932b6078c86d9a
