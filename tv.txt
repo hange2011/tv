@@ -29,6 +29,14 @@ CCTV-老故事,rtsp://183.59.32.82/PLTV/88888905/224/3221228321/1000010000000006
 CCTV-中学生,rtsp://183.59.32.82/PLTV/88888905/224/3221228327/10000100000000060000000007935405_0.smil?icpid=88888888
 CCTV-女性时尚,rtsp://183.59.32.82/PLTV/88888905/224/3221228315/10000100000000060000000007935395_0.smil?icpid=88888888
 CCTV-新科动漫,rtsp://183.59.32.82/PLTV/88888905/224/3221228333/10000100000000060000000007935403_0.smil?icpid=88888888
+CGTN阿拉伯语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTNNEWS,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
+CGTN西语频道,http://live.cgtn.com/1000e/prog_index.m3u8
+CGTN阿语频道,http://live.cgtn.com/1000a/prog_index.m3u8
+CGTN俄语频道,http://live.cgtn.com/1000r/prog_index.m3u8
+CGTN纪录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 
 国内卫视,#genre#
 湖南卫视,rtsp://183.59.32.82/PLTV/88888905/224/3221227581/10000100000000060000000004462928_0.smil?icpid=88888888#rtsp://183.59.32.82/PLTV/88888895/224/3221227488/10000100000000060000000003893560_0.smil?icpid=88888888#rtsp://183.59.32.82/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil?icpid=88888888#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -119,8 +127,8 @@ TVB无线新闻台,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83d
 TVB无线财经台,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8#P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
 TVB星河台,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c#P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
 TVB武术台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
-有线新闻,http://hk.tv0668.com/dl/hk520.php?id=31#http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8#http://pull.scphsd.com/live/a56c80d2d8eda6ccfb09476c44cdf496/playlist.m3u8?wsSession=fda6586649733f99ae4ae800-158419742234045&wsIPSercert=3788641c8bff9126bc4184f7312d28cd&wsMonitor=0#http://pull.scphsd.com/live/72d48eda6cacfb094c6c4df49656c80d.flv
-有线电影台,http://hk.tv0668.com/dl/hk520.php?id=30
+有线新闻,http://prdsecurelive.ainemo.com/live/2020sanwu.flv#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz#http://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
 有线综合娱乐台,http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
 有线财经资讯台,http://testalicdn2.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 VIU TVHD,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef#http://hk.tv0668.com/dl/hk520.php?id=8
