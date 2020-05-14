@@ -142,7 +142,7 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 寰宇新闻2台,P2p://sdgdklwos.finetv.tv:9906/5a142744000f25045fbe6f82276e0d88
 寰宇财经台,P2p://sdgdklwos.finetv.tv:9906/59fd2b98000b4fba02bec7ed4c560211
 寰宇综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd383a000db1c102f021590c272f6e
-东森新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003#http://bbdd.228888888.xyz:8081/hls/ch217.m3u8
+东森新闻HD,P2p://sdgdklwos.finetv.tv:9906/5a1427ee0009fb195fc1064a3af652d1#https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8#http://iptv.52qdg.com/iptv.php?id=tw&pamid=003#http://bbdd.228888888.xyz:8081/hls/ch217.m3u8#http://live3.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森财经HD,P2p://sdgdklwos.finetv.tv:9906/59fd1f94000ee56d028fd937397b7e63
 东森幼幼HD,P2p://sdgdklwos.finetv.tv:9906/5a32188e00095e2bd4b5d0737fe325f5
 东森电影HD,P2p://sdgdklwos.finetv.tv:9906/59fd0cab0008230a0245f94a229777bd
@@ -155,12 +155,11 @@ RTHK32HD,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 三立都会台HD,P2p://sdgdklwos.finetv.tv:9906/59fd20f5000e6b4602953c0079210fd1
 三立台湾台HD,P2p://sdgdklwos.finetv.tv:9906/5a1425f00009bfad5fb93e0a6f7070c4
 中天亚洲台,P2p://sdgdklwos.finetv.tv:9906/59fd05260002b0730228985b2c380c8a
-中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6
-中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/5acb650d0006707f2b8d716537d413a9
+中天新闻HD,P2p://sdgdklwos.finetv.tv:9906/59fd05020006070602280c953c2545e6#http://live3.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合HD,P2p://sdgdklwos.finetv.tv:9906/59fd04bc00059d610226fb164a845fa5
 中天娱乐HD,P2p://sdgdklwos.finetv.tv:9906/59fd049e0006fb6e0226863427c16955
 八大第1台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22540006fb57029a95244a947e57
-八大综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7
+八大综合台HD,P2p://sdgdklwos.finetv.tv:9906/59fd22220005cbed0299d18627a207f7#http://live3.ocnttv.com:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
 八大戏剧台HD,P2p://sdgdklwos.finetv.tv:9906/59fd21c7000edfe70298706f2ef217c7
 八大娱乐台HD,P2p://sdgdklwos.finetv.tv:9906/59fd38fe000e2eeb02f31f187a8b3f49
 纬来体育HD,P2p://sdgdklwos.finetv.tv:9906/5a141bab0009ca9c5f91208265721808#vjms://58.215.133.161:8500/live/cid=202
