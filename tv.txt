@@ -119,7 +119,7 @@ BesTV4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http://117
 香港,#genre#
 凤凰中文HD,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzw#http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8#http://125.210.152.18:9090/live/FHZW_1200.m3u8
 凤凰资讯HD,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#rtmp://58.200.131.2:1935/livetv/fhzx#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8?icpid=88888888&IASHttpSessionId=OTT1622920190904084738000813#http://39.134.176.157/PLTV/88888888/224/3221226491/index.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
+凤凰香港HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 凤凰电影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy#rtmp://58.200.131.2:1935/livetv/fhdy
 TVB翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8#http://mggj02930373.ysj521.cn/smart.php?c=jade_twn&h=198.16.106.58:8278#http://tv.kksyw.top/12y1345/gn/gudou.php?id=xgfeicui_1500#http://hls.globaliptv.ml/tvbjade.php#http://61.238.6.49:8000/bysid/1
 TVB J2,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470#P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf#http://180.94.172.134:8891/stream/channelid/2087466757
