@@ -3,7 +3,7 @@
   "sites": [
     {
     "key": "csp_Enlienli",
-    "name": "嗯哩嗯哩(阿在共享)",
+    "name": "嗯哩嗯哩",
     "type": 3,
     "api": "csp_Enlienli",
     "searchable": 1,
@@ -12,7 +12,7 @@
     },
     {
     "key": "csp_Aidi",
-    "name": "爱迪(阿在共享)",
+    "name": "爱迪",
     "type": 3,
     "api": "csp_Aidi",
     "searchable": 1,
@@ -20,17 +20,8 @@
     "filterable": 1
     },
 {
-  "key": "csp_Auete",
-  "name": "共享(QQ群:869790564)",
-  "type": 3,
-  "api": "csp_Auete",
-  "searchable": 1,
-  "quickSearch": 0,
-  "filterable": 1
-},
-{
   "key": "csp_Cokemv",
-  "name": "Cokemv(阿在共享)",
+  "name": "Cokemv",
   "type": 3,
   "api": "csp_Cokemv",
   "searchable": 1,
@@ -39,7 +30,7 @@
 },
 {
   "key": "csp_Buka",
-  "name": "真不卡(阿在共享)",
+  "name": "真不卡",
   "type": 3,
   "api": "csp_Buka",
   "searchable": 0,
@@ -48,7 +39,7 @@
 },
 {
   "key": "csp_Ysgc",
-  "name": "影视工厂(阿在共享)",
+  "name": "影视工厂",
   "type": 3,
   "api": "csp_Ysgc",
   "searchable": 1,
@@ -57,7 +48,7 @@
 },
 {
   "key": "csp_N0ys",
-  "name": "90影视(阿在共享)",
+  "name": "90影视",
   "type": 3,
   "api": "csp_N0ys",
   "searchable": 1,
@@ -66,7 +57,7 @@
 },
   {
     "key": "csp_Nekk",
-    "name": "9E看看(阿在共享)",
+    "name": "9E看看",
     "type": 3,
     "api": "csp_Nekk",
     "searchable": 1,
@@ -75,7 +66,7 @@
   },
   {
     "key": "csp_EPangApp",
-    "name": "阿房影视(阿在共享)",
+    "name": "阿房影视",
     "type": 3,
     "api": "csp_EPangApp",
     "searchable": 1,
@@ -84,7 +75,7 @@
   },
  {
     "key": "csp_xpath_94sm",
-    "name": "94神马(阿在共享)",
+    "name": "94神马",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -93,7 +84,7 @@
     "ext": "{\"ua\":\"\",\"homeUrl\":\"http://www.9rmb.com\",\"cateNode\":\"//ul[contains(@class,'navbar-nav')]/li/a[contains(@href, '.html') and not(contains(@href, '6'))]\",\"cateName\":\"/text()\",\"cateId\":\"/@href\",\"cateIdR\":\"/type/(\\\\d+).html\",\"cateManual\":{},\"homeVodNode\":\"//div[@class='col-md-12 movie-item-out']//a[not(contains(@href, '6'))]/parent::*/parent::*/parent::*/div[contains(@class, 'movie-item-out') and position()<10]/div[@class='movie-item']/a\",\"homeVodName\":\"/@title\",\"homeVodId\":\"/@href\",\"homeVodIdR\":\"/show/(\\\\w+).html\",\"homeVodImg\":\"/img/@src\",\"homeVodMark\":\"/button/text()\",\"cateUrl\":\"http://www.9rmb.com/type/{cateId}/{catePg}.html\",\"cateVodNode\":\"//div[@class='movie-item']/a\",\"cateVodName\":\"/@title\",\"cateVodId\":\"/@href\",\"cateVodIdR\":\"/show/(\\\\w+).html\",\"cateVodImg\":\"/img/@src\",\"cateVodMark\":\"/button/text()\",\"dtUrl\":\"http://www.9rmb.com/show/{vid}.html\",\"dtNode\":\"//div[@class='container-fluid']\",\"dtName\":\"//div[@class='col-md-9']//div[@class='col-md-4']//img/@alt\",\"dtNameR\":\"\",\"dtImg\":\"//div[@class='col-md-9']//div[@class='col-md-4']//img/@src\",\"dtImgR\":\"\",\"dtCate\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '类型')]/parent::*/following-sibling::*/text()\",\"dtCateR\":\"\",\"dtYear\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '日期')]/parent::*/following-sibling::*/text()\",\"dtYearR\":\"\",\"dtArea\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '国家')]/parent::*/following-sibling::*/text()\",\"dtAreaR\":\"\",\"dtMark\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '状态')]/parent::*/following-sibling::*/text()\",\"dtMarkR\":\"\",\"dtActor\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '主演')]/parent::*/following-sibling::*/text()\",\"dtActorR\":\"\",\"dtDirector\":\"//div[@class='col-md-8']//span[@class='info-label' and contains(text(), '导演')]/parent::*/following-sibling::*/text()\",\"dtDirectorR\":\"\",\"dtDesc\":\"//p[@class='summary']/text()\",\"dtDescR\":\"\",\"dtFromNode\":\"//div[contains(@class,'resource-list')]/div[@class='panel-heading']/strong\",\"dtFromName\":\"/text()\",\"dtFromNameR\":\"\\\\S+\\\\.(\\\\S+) \\\\(\",\"dtUrlNode\":\"//div[contains(@class,'resource-list')]/ul[@class='dslist-group']\",\"dtUrlSubNode\":\"/li/a\",\"dtUrlId\":\"@href\",\"dtUrlIdR\":\"/play/(\\\\S+).html\",\"dtUrlName\":\"/text()\",\"dtUrlNameR\":\"\",\"playUrl\":\"http://www.9rmb.com/play/{playUrl}.html\",\"playUa\":\"\",\"searchUrl\":\"http://www.9rmb.com/search?wd={wd}\",\"scVodNode\":\"//div[@class='movie-item']/a\",\"scVodName\":\"/@title\",\"scVodId\":\"/@href\",\"scVodIdR\":\"/show/(\\\\w+).html\",\"scVodImg\":\"/img/@src\",\"scVodMark\":\"/button/text()\"}"
 },
 {"key": "csp_xpath_jpys",
-    "name": "极品影视(阿在共享)",
+    "name": "极品影视",
     "type": 3,
     "api": "csp_XPath",
     "searchable": 1,
@@ -112,7 +103,7 @@
 },
       {
                 "key": "极品资源",
-                "name": "极品资源阿在共享",
+                "name": "极品资源",
                 "type": 0,
                 "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
                 "categories": [
@@ -136,7 +127,7 @@
     },
     {
       "key": "快播云",
-      "name": "快播云阿在共享",
+      "name": "快播云",
       "type": 0,
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -187,7 +178,7 @@
     },
     {
       "key": "乐多采集",
-      "name": "乐多采集阿在共享",
+      "name": "乐多采集",
       "type": 0,
       "api": "https://cj.leduocaiji.com/inc/api.php",
       "playUrl": "https://api.xxctzy.com/1.php?vid=",
@@ -221,7 +212,7 @@
     },
     {
       "key": "安逸影院",
-      "name": "安逸影院阿在共享",
+      "name": "安逸影院",
       "type": 0,
       "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
       "playUrl": "",
@@ -243,7 +234,7 @@
     },
     {
       "key": "2A资源站",
-      "name": "2A资源站阿在共享",
+      "name": "2A资源站",
       "type": 1,
       "api": "http://zy.zcocc.com/api.php/provide/vod/",
       "playUrl": "",
@@ -285,7 +276,7 @@
     },
     {
       "key": "蘑菇资源",
-      "name": "蘑菇资源阿在共享",
+      "name": "蘑菇资源",
       "type": 0,
       "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
       "playUrl": "",
@@ -315,7 +306,7 @@
     },
     {
       "key": "88资源",
-      "name": "88资源阿在共享",
+      "name": "88资源",
       "type": 0,
       "api": "http://www.88zyw.net/inc/api.php",
       "playUrl": "",
@@ -343,7 +334,7 @@
     },
     {
       "key": "39影视",
-      "name": "39影视阿在共享",
+      "name": "39影视",
       "type": 0,
       "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
       "playUrl": "",
@@ -365,7 +356,7 @@
     },
     {
       "key": "追剧吧",
-      "name": "追剧吧阿在共享",
+      "name": "追剧吧",
       "type": 0,
       "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "playUrl": "",
