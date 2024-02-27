@@ -383,6 +383,7 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东珠江,http://113.117.74.28:8081/hls/139/index.m3u8
 
 港澳,#genre#
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
 無线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b.ts
@@ -473,14 +474,14 @@ HKIBC,https://live.astradamy.com/hk76/index.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 KIX,http://203.80.165.14/stream/channelid/1365041137?profile=pass
+凤凰中文,http://154.201.71.4:100//phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 
 
 
 
 
 
-
-凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
@@ -672,7 +673,6 @@ YOYO,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream
 HBO原創鉅獻,http://154.201.71.4:100//hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 HBO原創鉅獻,http://154.201.71.4:100//hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 美亚电影台,http://154.201.71.4:100//meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-凤凰中文台,http://154.201.71.4:100//phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 美亚电影台,http://154.201.71.4:100//meiyamovie_twn/playlist.m3u8?tid=MFEF1001328410013284&ct=19226&tsum=9839709ca0f37641c5d1ba962c3bc739
 好莱坞电影,http://154.201.71.4:100//hollywoodmovies_twn/playlist.m3u8?tid=MD8D9429794794297947&ct=19193&tsum=fbe097bcbe37adad90e8bef964cac161
 東森洋片 HD,http://154.201.71.4:100//ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
