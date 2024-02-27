@@ -70,7 +70,7 @@ CCTV7,http://111.12.110.7:6610/PLTV/77777777/224/3221225892/index.m3u8?
 东方卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江苏卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-深圳卫视4k,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1965546073_-1364170119/ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8?icpid=3&RTS=1669700566&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 河北卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
@@ -384,13 +384,13 @@ GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 
 港澳,#genre#
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156407&extension=ts
 翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
 翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
-無线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b.ts
+无线新闻,mitv://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b.ts
 翡翠台,http://feng163.com:9000/bysid/1
 明珠台,http://feng163.com:9001/bysid/2
-TVB J2,http://feng163.com:9001/bysid/82
-无线新闻,http://feng163.com:9001/bysid/83
+J2,http://feng163.com:9001/bysid/82
 无线财经,http://feng163.com:9001/bysid/85
 RTHK31,http://feng163.com:9002/bysid/31
 RTHK32,http://feng163.com:9002/bysid/32
@@ -404,7 +404,7 @@ HOY 78台,http://feng163.com:9003/bysid/78
 翡翠台,http://sz.l68.fun:9000/bysid/1
 明珠台,http://sz.l68.fun:9001/bysid/2
 J2台,http://sz.l68.fun:9001/bysid/82
-無綫新聞台,http://sz.l68.fun:9001/bysid/83
+无线新闻,http://sz.l68.fun:9001/bysid/83
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://146.56.153.245:8006/bysid/1
 翡翠台,http://r.jdshipin.com/62WM7
@@ -424,7 +424,6 @@ TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist
 TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB华丽翡翠台,http://v2h.jdshipin.com/jade/jade.stream/chunklist.m3u8
 凤凰卫视美洲,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156408&extension=ts
-凤凰资讯,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156407&extension=ts
 TVB娱乐新闻台mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
